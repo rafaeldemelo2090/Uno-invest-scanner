@@ -1,0 +1,18 @@
+'EOF'
+[theme]
+primaryColor="#1f77b4"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f0f2f6"
+textColor="#262730"
+
+[server]
+headless = true
+port = 8501
+EOF
+
+
+```toml
+TELEGRAM_BOT_TOKEN = "8687997771:AAFDgl8SRdyzWt7w8p3-IEq-4GlZKbrf_eg"
+TELEGRAM_CHAT_ID = 47849458"
+```
+
